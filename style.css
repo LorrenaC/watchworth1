@@ -138,6 +138,7 @@ body {
 }
 
 .movie p {
+    text-align: center;
     font-family: 'Merriweather', serif;
     color: #b44;
     margin-top: 10px;
